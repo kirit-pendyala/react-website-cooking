@@ -41,46 +41,22 @@ function Footer() {
         <div class='social-media-wrap'>
           <small class='website-rights'>Brown Boy Cooking © 2021</small>
           <div class='social-icons'>
-            <Link
-              class='social-icon-link facebook'
-              to='/'
-              target='_blank'
-              aria-label='Facebook'
-            >
-              <i class='fab fa-facebook-f' />
-            </Link>
-            <Link
-              class='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
-            >
-              <i class='fab fa-instagram' />
-            </Link>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
-            >
-              <i class='fab fa-youtube' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <i class='fab fa-twitter' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <i class='fab fa-linkedin' />
-            </Link>
+             <a target="_blank" href="https://www.facebook.com/kiritpendyala">
+              <i class="fab fa-facebook"></i>
+             </a>
+
+             <a target="_blank" href="https://instagram.com/kirit_pendyala?igshid=11bprgh6ujo13">
+              <i class="fab fa-instagram"></i>
+             </a>
+
+             <a target="_blank" href="https://www.linkedin.com/in/kirit-pendyala/">
+              <i class="fab fa-linkedin"></i>
+             </a>
+
+             <a target="_blank" href="https://github.com/kirit-pendyala">
+              <i class="fab fa-github"></i>
+             </a>
+
           </div>
         </div>
       </section>

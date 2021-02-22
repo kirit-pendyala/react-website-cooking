@@ -1,3 +1,6 @@
+
+
+
 .footer-container {
   background-color: #242424;
   padding: 4rem 0 2rem 0;
@@ -92,6 +95,62 @@
 .footer-input::placeholder {
   color: #b1b1b1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa {
+  padding: 20px;
+text-align: center;
+  margin: 5px 2px;
+  font-size: 60px;
+  width: 50px;
+}
+.fa-facebook {
+  color: black;
+}
+.fa-github {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Social Icons */
 .social-icon-link {
