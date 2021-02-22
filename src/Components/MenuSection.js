@@ -5,7 +5,7 @@ import './MenuSection.css';
 function MenuSection() {
   return (
     <div className='menu-container'>
-      <video src="/videos/video-2.mp4" autoplay loop muted/>
+      <video src='/videos/video-2.mp4' autoPlay loop muted/>
       <h1> The Brown Boy Cooks </h1>
       <div className="hero-btns"> </div>
       <Button
@@ -13,7 +13,7 @@ function MenuSection() {
         buttonStyle='btn--outline'
         buttonSize='btn--large'
       >
-      Lets begin
+      Let's begin
       </Button>
       <Button
         className='btns'
